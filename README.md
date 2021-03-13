@@ -1,3 +1,9 @@
-# HelloGRPC
+# iOS Sample Project
+https://github.com/takagisou/grpc-swift-sample
 
-A description of this package.
+# How to update
+
+- (optional): `mkdir proto`
+- add proto files to `proto/` directory
+- Run `sh build.sh`
+- push to repository
